@@ -4,4 +4,7 @@ Kheer
 Pasta
 Fried Chiken
 
+Beans
+Pizza
+
 Thank You! :)
